@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.so
+
+# Node / React
+node_modules/
+build/
+dist/
+.next/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Database
+*.sqlite
+*.db
+
+# Uploads
+uploads/
+
+# Coverage
+coverage/
+.pytest_cache/
+
+# Misc
+.cache/
+.temp/
